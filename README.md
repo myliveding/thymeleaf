@@ -1,11 +1,7 @@
-# thymeleaf
+## 项目说明
 使用thymeleaf引擎得web项目
 
-## 项目说明
-
-
 ## 其他说明
-
-### 已使用
-
-### 待处理
+自动部署加载：
+spring.thymeleaf.cache=false
+如果使用的开发工具是idea,修改html后使用Ctrl+Shift+F9
