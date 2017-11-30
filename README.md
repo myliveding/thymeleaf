@@ -1,4 +1,8 @@
 # thymeleaf
-thymeleaf 研究下
+使用thymeleaf引擎得web项目
 
-主要是万一以后用到这种html格式的 thymeleaf引擎，便于开发
+
+## 项目说明
+
+
+## 代码说明
